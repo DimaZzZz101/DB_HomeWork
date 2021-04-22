@@ -1,0 +1,3 @@
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/HW_ver2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/HW_ver2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/HW_ver2/cmake-build-debug/CMakeFiles/HW_ver2.dir
