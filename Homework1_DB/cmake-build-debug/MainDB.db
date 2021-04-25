@@ -1,0 +1,138 @@
+MainDB
+0
+###
+S
+Storage1
+Moscow
+150
+80
+#
+40
+boots 10
+sneakers 10
+#
+41
+boots 10
+sneakers 10
+#
+42
+boots 10
+sneakers 10
+#
+43
+boots 10
+sneakers 10
+###
+S
+Storage2
+Moscow
+170
+80
+#
+40
+boots 10
+sneakers 10
+#
+41
+boots 10
+sneakers 10
+#
+42
+boots 10
+sneakers 10
+#
+43
+boots 10
+sneakers 10
+###
+S
+Storage3
+Belgorod
+190
+80
+#
+40
+boots 10
+sneakers 10
+#
+41
+boots 10
+sneakers 10
+#
+42
+boots 10
+sneakers 10
+#
+43
+boots 10
+sneakers 10
+###
+C
+Storage5
+Moscow
+150
+88
+#
+180 48
+blouse 25
+shirt 20
+sweater 28
+trouses 15
+###
+C
+Storage6
+Belgorod
+170
+60
+#
+180 48
+jacket 15
+jeans 10
+shirt 23
+skirt 12
+###
+C
+Storage7
+Belgorod
+190
+55
+#
+180 48
+jacket 15
+jeans 10
+skirt 10
+sweater 20
+###
+C
+Storage8
+Kazan
+250
+80
+#
+180 48
+T-shirt 35
+blouse 15
+shorts 10
+sweater 20
+###
+S
+Storage4
+Saratov
+210
+80
+#
+40
+boots 10
+sneakers 10
+#
+41
+boots 10
+sneakers 10
+#
+42
+boots 10
+sneakers 10
+#
+43
+boots 10
+sneakers 10

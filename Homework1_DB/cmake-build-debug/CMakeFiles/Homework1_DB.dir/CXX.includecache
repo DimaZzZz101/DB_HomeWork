@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/BasicStorage.hpp
+iostream
+-
+string
+-
+vector
+-
+cmath
+-
+sstream
+-
+fstream
+-
+filesystem
+-
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/ClothesStorage.hpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+cmath
+-
+BasicStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/BasicStorage.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/DB.hpp
+iostream
+-
+vector
+-
+string
+-
+map
+-
+stdexcept
+-
+algorithm
+-
+sstream
+-
+istream
+-
+filesystem
+-
+fstream
+-
+ShoesStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/ShoesStorage.hpp
+ClothesStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/ClothesStorage.hpp
+BasicStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/BasicStorage.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/ShoesStorage.hpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+cmath
+-
+BasicStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/BasicStorage.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/main.cpp
+include/DB.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/DB.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/sources/BasicStorage.cpp
+../include/BasicStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/BasicStorage.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/sources/ClothesStorage.cpp
+../include/ClothesStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/ClothesStorage.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/sources/DB.cpp
+../include/DB.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/DB.hpp
+
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/sources/ShoesStorage.cpp
+../include/ShoesStorage.hpp
+/Users/mrrobot/Desktop/C++(labs + lessons)/sem2/Homework1_DB/include/ShoesStorage.hpp
+
